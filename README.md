@@ -196,18 +196,3 @@ Damit wird die **beobachtbare Interaktionsdauer** gemessen.
 Reine Lesezeiten ohne Interaktion können damit nicht erfasst werden.
 
 ---
-
-# Typische Anwendungsfälle
-
-Das Tool eignet sich besonders für:
-
-* Analyse von **KI-gestützten Lernsystemen**
-* Evaluation von **Chatbot-Interaktionen**
-* Quantitative Analyse von **Dialogverhalten**
-* Forschung im Bereich **Educational Technology**
-
----
-
-# Lizenz
-
-Dieses Skript kann frei für Forschungszwecke verwendet und angepasst werden.
