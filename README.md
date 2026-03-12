@@ -35,6 +35,13 @@ URL: /LampenAi/2
 USER: username
 THREAD_ID: thread_id
 CONTENT: Text der Nachricht
+
+TYPE: ASSISTANT_MESSAGE
+TIME: 2026-03-12T09:14:15.600Z
+URL: /LampenAi/2
+USER: username
+THREAD_ID: thread_id
+CONTENT: Antwort des Assistants
 ```
 
 Mögliche Eventtypen:
