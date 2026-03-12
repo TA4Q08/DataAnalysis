@@ -60,12 +60,6 @@ Für jede Seite (`URL`) werden folgende Parameter berechnet:
 | Turns              | Anzahl der Dialogturns (User → Assistant)                        |
 | Duration_Seconds   | Zeitspanne zwischen erster und letzter Interaktion auf der Seite |
 
-Ein **Turn** entspricht einer vollständigen Interaktion:
-
-```
-User → Assistant
-```
-
 ---
 
 # Aufbau der Excel-Datei
