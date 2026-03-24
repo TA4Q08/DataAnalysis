@@ -1,3 +1,5 @@
+# Skript zur Auswertung von Chat-Logdateien aus einer ZIP-Datei
+
 import re
 import zipfile
 import statistics
